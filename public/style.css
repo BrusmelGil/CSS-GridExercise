@@ -47,6 +47,8 @@ h1 {
     background-size: cover;
     grid-row: 1;
     border: 2px solid black;
+    height: auto; 
+    overflow: hidden;
     
 
 }
@@ -67,6 +69,7 @@ h1 {
     grid-row: 1;
     grid-column: 1/2;
     border: 2px solid black;
+    
 
 }
 
@@ -77,6 +80,7 @@ h1 {
     grid-row: 1;
     grid-column: 2/3;
     border: 2px solid black;
+    
 
 }
 
