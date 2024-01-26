@@ -4,8 +4,7 @@
 
 
 ## GITHUB PAGES LINK
-
-
+https://brusmelgil.github.io/CSS-GridExercise/
 
 
 ## FINAL RESULT
